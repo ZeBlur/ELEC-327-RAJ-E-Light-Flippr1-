@@ -40,7 +40,8 @@ RAJ Group LLC utilized Autodesk Fusion 360 for the design of the _E-Light Flippr
 The design was carefully crafted such that the device can be placed exactly over the center of the light switch to toggle it. In addition, the device features curved and filleted edges to allow it to more seamlessly and elegantly add to the aesthetics of the room it is in.
 
 Iteration 1 of our enclosure design in CAD is shown below:
-<img width="882" alt="Screenshot 2024-04-26 at 15 48 20" src="https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/72717429/91c064a6-681f-4697-84d5-1f8a99da3b6d">
+<img width="866" alt="Screenshot 2024-04-26 at 15 48 31" src="https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/72717429/78f3e3e2-264f-43dd-934d-b34d4dc7625b">
+
 Figure 2: Iteration 1 in CAD
 
 However, after preliminary testing with Iteration 1, we realized we needed to tweak some aspects of the design to allow the device to fit against the wall more seamlessly, allow for more space for a new battery solution (our initial battery solution failed to provide power), and to adjust the button hole tolerance to allow the button to better fit through the enclosure. Iteration 2 therefore addresses these concerns, and also brings visual enhancements, namely a Rice Wind Energy logo to allow for passive advertising of the team (which RAJ Group LLC is closely affiliated with) as well as more filleted edges.
