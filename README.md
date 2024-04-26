@@ -10,7 +10,7 @@ Want the lights to turn on automatically as you enter the room?
 
 Always forgetting to turn off the lights when you leave the room?
 
-RAJ Group LLC's **NEW** _E-Light Flippr1™_ smart lighting solution is for you! 
+RAJ Group LLC's **NEW** _E-Light Flippr1™_ is THE smart lighting solution is for you! 
 
 ### Features:
 With our state of the art motion detection technology, the _E-Light Flippr1™_ can detect when nobody is around and automatically turn off the lights for you!
@@ -19,19 +19,12 @@ Using a threefold combo of a handheld infrared laser, infrared receiver, and mic
 
 Wondering how it works? When you shine the handheld infrared laser at the _E-Light Flippr1™_, the IR receiver will detect this and send the appropriate signal to our microcontroller. That signal will be processed and relayed through the system to the servo, which will then flip the switch to your desired state. Also, if you enter the room, the device will automatically flip the light switch on to turn the lights on. In a similar fashion, after no motion has been detected for a period of time (customizable to the user), the motion sensor will relay a signal to the device, automatically turning off the lights! 
 
-The _E-Light Flippr1™_ is easily installed or detached from a wide range of walls (using velcro, which is strong but not permanent). This means you can automate your light switch worry-free and without worrying about needing to access your house or building’s electrical wiring!
-
-## Visuals
+### Visuals
+Below is a simplified block diagram describing product functionality.  
+![Block Diagram Image](https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/168153437/79efa356-c2e2-40a2-9cf2-502504b29fa2)
 
 ## Installation
-
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
+The _E-Light Flippr1™_ is easily installed or detached from a wide range of walls (using velcro, which is strong but not permanent). This means you can automate your light switch worry-free and without worrying about needing to access your house or building’s electrical wiring!
 
 ## Support
 Contact our project development team @rajsilicongroup@gmail.com.
