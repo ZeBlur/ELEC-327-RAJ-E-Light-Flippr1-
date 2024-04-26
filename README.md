@@ -58,6 +58,7 @@ Adam Swartz - Lead Software Design
 Jason Yang - Lead Hardware Desgin
 
 
+
 We would also like to thank our sponsors:
 
 Rice Wind Energy, for their charitable donation of wiring components and spare parts
