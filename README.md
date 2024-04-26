@@ -22,13 +22,21 @@ Using a threefold combo of a handheld infrared remote, infrared receiver, and mi
 Wondering how it works? When you point the handheld infrared remote at the _E-Light Flippr1™_, the infrared receiver will detect this and send the appropriate signal to our microcontroller. That signal will be processed and relayed through the microcontroller to the servo, which will then flip the switch to the desired state. Also, if no motion has been detected for approximately 3 minutes, the motion sensor will relay a signal to the device, automatically turning off the lights! 
 ### Components:
 1x TI LaunchPad kit with MSP430 MCU
+
 1x 5C-SR501 PIR Motion Sensor
+
 1x TSOP34440 Infrared Receiver
+
 1x SG90 Micro Servo
+
 1x USB-A to Micro USB cable
+
 1x 4-pin button
+
 1x INIU BI-B41 Power Bank (37 Watt-hours)
+
 1x 17x10 Breadboard
+
 1x RAJ Silicon Group Custom Enclosure
 ### Visuals
 Below is a simplified block diagram describing product functionality.  
