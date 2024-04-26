@@ -36,7 +36,7 @@ foobar.singularize('phenomena')
 Contact our project development team @rajsilicongroup@gmail.com.
 
 ## Roadmap
-We are currently exploring several additional features to the RAJ-E-Light-Flippr1:
+We are currently exploring several additional features to the RAJ-E-Light-Flippr1: <br />
 
 - Wi-Fi integration
 - Ambient light sensing and adaptability
@@ -57,8 +57,7 @@ Raj Anthony - Lead CAD and Project Integration
 
 Adam Swartz - Lead Software Design
 
-Jason Yang - Lead Hardware Desgin  
-
+Jason Yang - Lead Hardware Desgin  <br />
 
 
 We would also like to thank our sponsors:
