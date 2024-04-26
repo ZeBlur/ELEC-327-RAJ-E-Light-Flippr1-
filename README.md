@@ -1,5 +1,5 @@
 # RAJ-E-Light-Flippr1-
-
+RAJ (Raj Adam Jason) Group LLC
 The RAJ-E-Light-Flippr1 is a convenient, cost-effective, and modular solution to wasted energy. 
 
 ## Description
@@ -30,6 +30,7 @@ RAJ Group LLC utilized Autodesk Fusion 360 for the design of the _E-Light Flippr
 The design was carefully crafted such that the device can be placed exactly over the center of the light switch to toggle it. In addition, the device features curved and filleted edges to allow it to more seamlessly and elegantly add to the aesthetics of the room it is in.
 
 Iteration 1 of our CAD design is shown below:
+<img width="882" alt="Screenshot 2024-04-26 at 15 48 20" src="https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/72717429/91c064a6-681f-4697-84d5-1f8a99da3b6d">
 
 ## Installation
 The _E-Light Flippr1™_ is easily installed or detached from a wide range of walls (using velcro, which is strong but not permanent). This means you can automate your light switch worry-free and without worrying about needing to access your house or building’s electrical wiring!
