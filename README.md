@@ -4,6 +4,7 @@
 
 
 
-ok big readme here
+ok big readme here//
+
 I love u Jason
-- Randam Swanthony
+- Randam Swanthony 2024
