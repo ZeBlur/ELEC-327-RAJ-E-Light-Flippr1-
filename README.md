@@ -43,10 +43,10 @@ Below is a simplified block diagram describing product functionality.
 ![Block Diagram Image](https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/168153437/79efa356-c2e2-40a2-9cf2-502504b29fa2)
 Figure 1: Simplified block diagram of _E-Light Flippr1™_
 ### Code Overview
-At a high level, our code accomplishes the following:
+At a high level, the device's logic accomplishes the following:
 - If button pressed on remote, toggle light state
 - If button pressed on device, toggle light state
-- If no motion is detected for approximately 5 minutes, if the light is on, turn the lights off.
+- If no motion is detected for approximately 5 minutes, if the light is on, turn the lights off
 
 Our code is described in more detail via comments in the code files.
 ### Enclosure Design & Iterations
