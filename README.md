@@ -23,6 +23,14 @@ Wondering how it works? When you point the handheld infrared remote at the _E-Li
 Below is a simplified block diagram describing product functionality.  
 ![Block Diagram Image](https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/168153437/79efa356-c2e2-40a2-9cf2-502504b29fa2)
 
+### Enclosure Design & Iterations
+
+RAJ Group LLC utilized Autodesk Fusion 360 for the design of the _E-Light Flippr1™_ enclosure. The design was made to be functional, elegant, and compact, with space to hold all of the components listed in the Components section above—including a 10,000mAh battery, which ensures the device can operate on a wall without receiving power for multiple days at a time. In addition, the device supports constant connection via USB-C.
+
+The design was carefully crafted such that the device can be placed exactly over the center of the light switch to toggle it. In addition, the device features curved and filleted edges to allow it to more seamlessly and elegantly add to the aesthetics of the room it is in.
+
+Iteration 1 of our CAD design is shown below:
+
 ## Installation
 The _E-Light Flippr1™_ is easily installed or detached from a wide range of walls (using velcro, which is strong but not permanent). This means you can automate your light switch worry-free and without worrying about needing to access your house or building’s electrical wiring!
 
