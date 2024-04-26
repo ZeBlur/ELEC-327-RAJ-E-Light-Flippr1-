@@ -57,7 +57,7 @@ We would also like to thank our sponsors:
 
 - Oshman Engineering Design Kitchen, for the use of working space and facilities 
 
-- McMurtry Innovation Space, for the use of a light switch for testing purposes
+- McMurtry Innovation Space, for the use of testing space
 
 ## License
 
