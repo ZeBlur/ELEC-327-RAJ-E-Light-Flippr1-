@@ -10,12 +10,14 @@ Want the lights to turn on automatically as you enter the room?
 
 Always forgetting to turn off the lights when you leave the room?
 
+Don't want the hassle or upfront cost of re-wiring the electrical systems in your building of choice?
+
 RAJ Group LLC's **NEW** _E-Light Flippr1™_ is **THE** smart lighting solution for you! 
 
 ### Features:
-Using a threefold combo of a handheld infrared laser, infrared receiver, and micro-servo in conjunction with a small microcontroller, the _E-Light Flippr1™_ allows you to simply point the handheld laser in the direction of the light switch to toggle the light switch from afar (or up close)! Furthermore, our state of the art motion detection technology, the _E-Light Flippr1™_ can detect when nobody is around and automatically turn off the lights for you!
+Using a threefold combo of a handheld infrared remote, infrared receiver, and micro-servo in conjunction with a small microcontroller, the _E-Light Flippr1™_ allows you to simply point the handheld remote in the direction of the light switch to toggle the light switch from afar (or up close)! Furthermore, our state of the art motion detection technology, the _E-Light Flippr1™_ can detect when nobody is around and automatically turn off the lights for you! And if you want to simply toggle the light switch at the wall, the _E-Light Flippr1™_ has a panel-mounted button that effortlessly toggles the switch!
 
-Wondering how it works? When you shine the handheld infrared laser at the _E-Light Flippr1™_, the IR receiver will detect this and send the appropriate signal to our microcontroller. That signal will be processed and relayed through the system to the servo, which will then flip the switch to your desired state. Also, if you enter the room, the device will automatically flip the light switch on to turn the lights on. In a similar fashion, after no motion has been detected for a period of time (customizable to the user), the motion sensor will relay a signal to the device, automatically turning off the lights! 
+Wondering how it works? When you point the handheld infrared remote at the _E-Light Flippr1™_, the infrared receiver will detect this and send the appropriate signal to our microcontroller. That signal will be processed and relayed through the microcontroller to the servo, which will then flip the switch to the desired state. Also, if no motion has been detected for approximately 3 minutes, the motion sensor will relay a signal to the device, automatically turning off the lights! 
 
 ### Visuals
 Below is a simplified block diagram describing product functionality.  
@@ -47,9 +49,19 @@ Team members and contributions:
 
 Raj Anthony - Lead CAD and Project Integration
 
+- Led CAD design and 3D printing for device
+- Helped with writing and debugging of logic
+
 Adam Swartz - Lead Software Design
 
-Jason Yang - Lead Hardware Desgin  
+- Led design and writing of device logic
+- Helped with wiring & hardware debugging
+
+Jason Yang - Lead Hardware Design
+
+- Led hardware integration & project documentation
+- Helped with writing and debugging of logic
+
 ##
 We would also like to thank our sponsors:
 
