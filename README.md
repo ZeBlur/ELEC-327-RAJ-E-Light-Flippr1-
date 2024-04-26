@@ -65,7 +65,7 @@ Rice Wind Energy, for their charitable donation of wiring components and spare p
 
 Oshman Engineering Design Kitchen, for the use of working space and facilities 
 
-McMurtry Innovation Space, for the use of a light switch for testing purpose
+McMurtry Innovation Space, for the use of a light switch for testing purposes
 
 ## License
 
