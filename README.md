@@ -84,6 +84,7 @@ We are currently exploring several additional features to the RAJ-E-Light-Flippr
 - Ambient light sensing and adaptability
 - Digital user controls and customization
 - Reducing product size and weight
+- Integrate into the McMurtry Innovation Space long-term
 
 
 ## Contributing
