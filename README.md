@@ -13,9 +13,7 @@ Always forgetting to turn off the lights when you leave the room?
 RAJ Group LLC's **NEW** _E-Light Flippr1™_ is **THE** smart lighting solution for you! 
 
 ### Features:
-With our state of the art motion detection technology, the _E-Light Flippr1™_ can detect when nobody is around and automatically turn off the lights for you!
-
-Using a threefold combo of a handheld infrared laser, infrared receiver, and micro-servo in conjunction with a small microcontroller, the _E-Light Flippr1™_ allows you to simply point the handheld laser in the direction of the light switch to toggle the light switch from afar (or up close)! 
+Using a threefold combo of a handheld infrared laser, infrared receiver, and micro-servo in conjunction with a small microcontroller, the _E-Light Flippr1™_ allows you to simply point the handheld laser in the direction of the light switch to toggle the light switch from afar (or up close)! Furthermore, our state of the art motion detection technology, the _E-Light Flippr1™_ can detect when nobody is around and automatically turn off the lights for you!
 
 Wondering how it works? When you shine the handheld infrared laser at the _E-Light Flippr1™_, the IR receiver will detect this and send the appropriate signal to our microcontroller. That signal will be processed and relayed through the system to the servo, which will then flip the switch to your desired state. Also, if you enter the room, the device will automatically flip the light switch on to turn the lights on. In a similar fashion, after no motion has been detected for a period of time (customizable to the user), the motion sensor will relay a signal to the device, automatically turning off the lights! 
 
