@@ -33,6 +33,8 @@ foobar.singularize('phenomena')
 
 ## Usage
 ## Support
+Contact our project development team @rajsilicongroup@gmail.com.
+
 ## Roadmap
 We are currently exploring several additional features to the RAJ-E-Light-Flippr1:
 
@@ -49,13 +51,13 @@ We are not currently open to contributions.
 If you would like to request a new feature, please email our project development team @rajsilicongroup@gmail.com.
 
 ## Authors and acknowledgment  
-Team members and contributions:
+Team members and contributions:  
 
-Raj Anthony - Lead CAD and Project Integration 
+Raj Anthony - Lead CAD and Project Integration
 
 Adam Swartz - Lead Software Design
 
-Jason Yang - Lead Hardware Desgin
+Jason Yang - Lead Hardware Desgin  
 
 
 
