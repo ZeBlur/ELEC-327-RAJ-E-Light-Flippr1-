@@ -1,7 +1,7 @@
 # RAJ-E-Light-Flippr1-
 RAJ (Raj Adam Jason) Group LLC
 
-The RAJ E-Light-Flippr1 is a convenient, cost-effective, and modular solution to wasted energy. 
+The RAJ _E-Light Flippr1™_ is a convenient, cost-effective, and modular solution to wasted energy. 
 
 ## Description
 ### Introduction:
