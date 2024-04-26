@@ -61,7 +61,9 @@ Jason Yang - Lead Hardware Desgin
 We would also like to thank our sponsors:
 
 Rice Wind Energy, for their charitable donation of wiring components and spare parts
+
 Oshman Engineering Design Kitchen, for the use of working space and facilities 
+
 McMurtry Innovation Space, for the use of a light switch for testing purpose
 
 ## License
