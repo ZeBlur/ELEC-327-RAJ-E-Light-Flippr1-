@@ -4,7 +4,15 @@ Foobar is a Python library for dealing with word pluralization.
 
 ## Description
 ### Introduction:
-Have you ever been lying in bed, doomscrolling to oblivion after a long day of work, and just thought to yourself, “I just can’t be bothered to turn off the lights”? So the lights stay on, you stay scrolling, no work or sleep gets done, and the night gets ruined (˃̣̣̥⌓˂̣̣̥ ). Well, fear no more! The RAJ™ E-Light Flippr1™ is here! Want to turn on or off the lights from the comfort of your bed? Want the lights to turn on automatically as you enter the room? Wondering what happens if you forget to turn off the lights and then leave the room? The RAJ™ E-Light Flippr1™ takes care of that too! 
+Have you ever been lying in bed, doomscrolling to oblivion after a long day of work, and just thought to yourself, “I just can’t be bothered to turn off the lights”? Well, fear no more! The RAJ™ E-Light Flippr1™ is here!
+
+Want to turn on or off the lights from the comfort of your bed?
+
+Want the lights to turn on automatically as you enter the room?
+
+Wondering what happens if you forget to turn off the lights and then leave the room? 
+
+The RAJ™ E-Light Flippr1™ takes care of that too! 
 
 With our state of the art motion detection technology, the RAJ™ E-Light Flippr1™ can detect when nobody is around and automatically turn off the lights for you!
 
