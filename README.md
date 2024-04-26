@@ -10,7 +10,7 @@ Want the lights to turn on automatically as you enter the room?
 
 Always forgetting to turn off the lights when you leave the room?
 
-RAJ Group LLC's **NEW** _E-Light Flippr1™_ is THE smart lighting solution is for you! 
+RAJ Group LLC's **NEW** _E-Light Flippr1™_ is **THE** smart lighting solution for you! 
 
 ### Features:
 With our state of the art motion detection technology, the _E-Light Flippr1™_ can detect when nobody is around and automatically turn off the lights for you!
