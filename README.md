@@ -103,12 +103,17 @@ Figure 2: Iteration 1 in CAD
 However, after preliminary testing with Iteration 1, we realized we needed to tweak some aspects of the design to allow the device to fit against the wall more seamlessly, allow for more space for a new battery solution (our initial battery solution failed to provide power), and to adjust the button hole tolerance to allow the button to better fit through the enclosure. Iteration 2 therefore addresses these concerns, and also brings visual enhancements, namely a Rice Wind Energy logo to allow for passive advertising of the team (which RAJ Group LLC is closely affiliated with) as well as more filleted edges.
 
 Iteration 2 (final iteration) of our enclosure design in CAD is shown below:
-<img width="869" alt="Screenshot 2024-04-26 at 15 49 01" src="https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/72717429/1eec7633-f57e-4bc0-a5c1-674ecd9a8d8c">
+<img width="881" alt="Screenshot 2024-04-26 at 20 21 17" src="https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/72717429/41499e0b-c659-49a7-8950-cda2f4cabbbc">
 Figure 3: Iteration 2 in CAD
 
 A render of Iteration 2 of our CAD design is shown below:
 ![E-Light_Switch_Flippr1_R2_No_Battery_Hole_2024-Apr-26_08-40-51PM-000_CustomizedView20125995546_png](https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/72717429/0aa75439-21b2-49ad-90de-ff1f665aab40)
 Figure 4: Render of Iteration 2
+
+A dimensioned drawing of Iteration 2 of our CAD design is shown below:
+[2_E-Light Switch Flippr1 R2 No Battery Hole Drawing v1.pdf](https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/files/15136228/2_E-Light.Switch.Flippr1.R2.No.Battery.Hole.Drawing.v1.pdf)
+Figure 5: Iteration 2 Dimensioned CAD Drawing
+
 
 
 ## Installation
