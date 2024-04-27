@@ -70,7 +70,7 @@ Figure 1: Simplified block diagram of _E-Light Flippr1™_
 At a high level, the device's logic accomplishes the following:
 - If button pressed on remote, toggle light state
 - If button pressed on device, toggle light state
-- If no motion is detected for approximately 5 minutes, if the light is on, turn the lights off
+- If no motion is detected for approximately 5 minutes (can be customized), if the light is on, turn the lights off
 
 Code architecture consists of four auxilliary files and one primary control file.
 
