@@ -15,13 +15,14 @@ Don't want the hassle or upfront cost of re-wiring the electrical systems in you
 
 RAJ Group LLC's **NEW** _E-Light Flippr1™_ is **THE** smart lighting solution for you! 
 
-### Features and Description
+### Features and General Description
 Note: Section adapted from Final Project Proposal
 
 Using a threefold combo of a handheld infrared remote, infrared receiver, and micro-servo in conjunction with a small microcontroller, the _E-Light Flippr1™_ allows you to simply point the handheld remote in the direction of the light switch to toggle the light switch from afar (or up close)! Furthermore, our state of the art motion detection technology, the _E-Light Flippr1™_ can detect when nobody is around and automatically turn off the lights for you! And if you want to simply toggle the light switch at the wall, the _E-Light Flippr1™_ has a panel-mounted button that effortlessly toggles the switch!
 
 Wondering how it works? When you point the handheld infrared remote at the _E-Light Flippr1™_, the infrared receiver will detect this and send the appropriate signal to our microcontroller. That signal will be processed and relayed through the microcontroller to the servo, which will then flip the switch to the desired state. Also, if no motion has been detected for approximately 3 minutes, the motion sensor will relay a signal to the device, automatically turning off the lights! 
-### Components:
+
+## Components:
 1x TI LaunchPad kit with MSP430 MCU
 
 1x 5C-SR501 PIR Motion Sensor
@@ -39,18 +40,55 @@ Wondering how it works? When you point the handheld infrared remote at the _E-Li
 1x 17x10 Breadboard
 
 1x RAJ Silicon Group Custom Enclosure
-### Visuals
-Below is a simplified block diagram describing product functionality.  
+
+## System Architecture
+### Hardware Architecture 
+As seen in the general description and components list above, the _E-Light Flippr1™'s_ hardware can be separated into seven primary components:
+
+System Control:
+- MSP430 MCU
+
+System Inputs:
+- IR Sensor
+- Motion Sensor
+- General Purpose Button
+
+System Outputs: 
+- Micro Servo
+
+Power/Auxillary:
+- INIU BI-B41 Power Bank
+- RAJ Silicon Group Custom Enclosure
+
+Inputs and outputs are powered and connected via jumper wires and a small breadboard to the MSP430 MCU. No physical wall or computer connection is required thanks to the integrated rechargeable 37 Watt-hour internal power bank. All hardware has been designed to fit compactly and seamlessly into a custom-designed container.  
+
+Below is a simplified block diagram describing hardware functionality and interconnectivity.  
 ![Block Diagram Image](https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/168153437/79efa356-c2e2-40a2-9cf2-502504b29fa2)
 Figure 1: Simplified block diagram of _E-Light Flippr1™_
-### Code Overview
+
+### Software Architecture 
 At a high level, the device's logic accomplishes the following:
 - If button pressed on remote, toggle light state
 - If button pressed on device, toggle light state
 - If no motion is detected for approximately 5 minutes, if the light is on, turn the lights off
 
-Our code is described in more detail via comments in the code files.
-### Enclosure Design & Iterations
+Code architecture consists of four auxilliary files and one primary control file.
+Main Control and Logic File:
+- _FLIPPER.c_
+
+Auxilliary Helper/Header Files:
+- _initialize.c_
+- _initialize.h_
+- _servo.c_
+- _servo.h_
+
+The _FLIPPER.c_ main file implements the _E-Light Flippr1™'s_ custom control logic with support helper functions defined in the auxilliary files. Fundamental logic revolves around two states—'UP' and 'DOWN'— and the numerous timers and flags used to determine when to switch between them. Logic also includes polling the IR and Motion sensors, supported by additional functionality to account for the possibility of noise or erroneous inputs. 
+
+The _initialize.c_ file include functions to initialize the MSP430's I/O ports and internal clocks. The _servo.c_ file includes a function to control the angle at which the servo arm moves to hit the light switch. 
+
+Our exact code is described in more detail via comments in the included code files.
+
+## Enclosure Design & Iterations
 
 RAJ Group LLC utilized Autodesk Fusion 360 for the design of the _E-Light Flippr1™_ enclosure. The design was made to be functional, elegant, and compact, with space to hold all of the components listed in the Components section above—including a 37 Watt-hour battery, which ensures the device can operate on a wall without receiving power for multiple days at a time. In addition, the device supports constant connection via USB-C.
 
