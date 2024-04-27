@@ -60,7 +60,7 @@ Power/Auxillary:
 - INIU BI-B41 Power Bank
 - RAJ Silicon Group Custom Enclosure
 
-Inputs and outputs are powered and connected via jumper wires and a small breadboard to the MSP430 MCU. No physical wall or computer connection is required thanks to the integrated rechargeable 37 Watt-hour internal power bank. All hardware has been designed to fit compactly and seamlessly into a custom-designed container.  
+Inputs and outputs are powered and connected via jumper wires and a small breadboard to the MSP430 MCU. No physical wall or computer connection is required due to the integration of a rechargeable 37 Watt-hour internal power bank. All hardware has been designed to fit compactly and seamlessly into a custom-designed container.  
 
 Below is a simplified block diagram describing hardware functionality and interconnectivity.  
 ![Block Diagram Image](https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/168153437/79efa356-c2e2-40a2-9cf2-502504b29fa2)
