@@ -73,6 +73,7 @@ At a high level, the device's logic accomplishes the following:
 - If no motion is detected for approximately 5 minutes, if the light is on, turn the lights off
 
 Code architecture consists of four auxilliary files and one primary control file.
+
 Main Control and Logic File:
 - _FLIPPER.c_
 
