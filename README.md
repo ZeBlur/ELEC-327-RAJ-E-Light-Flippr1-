@@ -173,7 +173,7 @@ Additional design improvements being explored are listed above in the roadmap se
 
 ## Visuals
 
-![IMG_7880](https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/168153437/00be5baf-8984-48ae-9e24-61a73fb23998)
 ![IMG_7882](https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/168153437/9c6d0d3f-9d84-46aa-b245-9cacdeae8438)
 ![IMG_7883](https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/168153437/834273e3-5b13-473d-be97-09dec00e512d)
 ![IMG_7884](https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/168153437/70a78f84-0392-403d-a8f0-0e6b513ec3d7)
+![IMG_7880](https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/168153437/00be5baf-8984-48ae-9e24-61a73fb23998)
