@@ -111,7 +111,7 @@ A render of Iteration 2 of our CAD design is shown below:
 Figure 4: Render of Iteration 2
 
 A dimensioned drawing of Iteration 2 of our CAD design is shown below:
-[2_E-Light Switch Flippr1 R2 No Battery Hole Drawing v1.pdf](https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/files/15136228/2_E-Light.Switch.Flippr1.R2.No.Battery.Hole.Drawing.v1.pdf)
+![2_E-Light Switch Flippr1 R2 No Battery Hole Drawing v1](https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/72717429/41f071b1-0127-4066-b3d3-22f6db2c990b)
 Figure 5: Iteration 2 Dimensioned CAD Drawing
 
 
