@@ -174,6 +174,10 @@ Additional design improvements being explored are listed above in the roadmap se
 ## Visuals
 
 ![IMG_7882](https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/168153437/9c6d0d3f-9d84-46aa-b245-9cacdeae8438)
+Figure 5: Photo 1 of Device
 ![IMG_7883](https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/168153437/834273e3-5b13-473d-be97-09dec00e512d)
+Figure 6: Photo 2 of Device
 ![IMG_7884](https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/168153437/70a78f84-0392-403d-a8f0-0e6b513ec3d7)
+Figure 7: Device on Wall
 ![IMG_7880](https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/168153437/00be5baf-8984-48ae-9e24-61a73fb23998)
+Figure 8: Internals of Device
