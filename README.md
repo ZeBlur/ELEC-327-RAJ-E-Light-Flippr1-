@@ -93,6 +93,8 @@ Our exact code is described in more detail via comments in the included code fil
 
 RAJ Group LLC utilized Autodesk Fusion 360 for the design of the _E-Light Flippr1™_ enclosure. The design was made to be functional, elegant, and compact, with space to hold all of the components listed in the Components section above—including a 37 Watt-hour battery, which ensures the device can operate on a wall without receiving power for multiple days at a time. In addition, the device supports constant connection via USB-C.
 
+The state of charge of the device can be seen via the paw icon on the front of the device. The number of paws with lights positively correlates with the internal battery's state of charge.
+
 The design was carefully crafted such that the device can be placed exactly over the center of the light switch to toggle it. In addition, the device features curved and filleted edges to allow it to more seamlessly and elegantly add to the aesthetics of the room it is in.
 
 Iteration 1 of our enclosure design in CAD is shown below:
