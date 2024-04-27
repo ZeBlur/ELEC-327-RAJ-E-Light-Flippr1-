@@ -62,7 +62,7 @@ Power/Auxillary:
 
 Inputs and outputs are powered and connected via jumper wires and a small breadboard to the MSP430 MCU. No physical wall or computer connection is required due to the integration of a rechargeable 37 Watt-hour internal power bank. All hardware has been designed to fit compactly and seamlessly into a custom-designed container.  
 
-Below is a simplified block diagram describing hardware functionality and interconnectivity.  
+Below is a simplified block diagram describing hardware functionality and interconnectivity:
 ![Block Diagram Image](https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/168153437/79efa356-c2e2-40a2-9cf2-502504b29fa2)
 Figure 1: Simplified block diagram of _E-Light Flippr1™_
 
@@ -97,20 +97,16 @@ The design was carefully crafted such that the device can be placed exactly over
 
 Iteration 1 of our enclosure design in CAD is shown below:
 <img width="866" alt="Screenshot 2024-04-26 at 15 48 31" src="https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/72717429/78f3e3e2-264f-43dd-934d-b34d4dc7625b">
-
 Figure 2: Iteration 1 in CAD
 
 However, after preliminary testing with Iteration 1, we realized we needed to tweak some aspects of the design to allow the device to fit against the wall more seamlessly, allow for more space for a new battery solution (our initial battery solution failed to provide power), and to adjust the button hole tolerance to allow the button to better fit through the enclosure. Iteration 2 therefore addresses these concerns, and also brings visual enhancements, namely a Rice Wind Energy logo to allow for passive advertising of the team (which RAJ Group LLC is closely affiliated with) as well as more filleted edges.
 
 Iteration 2 (final iteration) of our enclosure design in CAD is shown below:
-<img width="881" alt="Screenshot 2024-04-26 at 20 21 17" src="https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/72717429/41499e0b-c659-49a7-8950-cda2f4cabbbc">
-
-Figure 3: Iteration 2 in CAD
 <img width="883" alt="Screenshot 2024-04-26 at 20 04 36" src="https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/72717429/a6f1e9e4-3c40-44f8-af93-9fb4ad4e004a">
+Figure 3: Iteration 2 in CAD
 
 A dimensioned drawing of Iteration 2 of our CAD design is shown below:
 ![2_E-Light Switch Flippr1 R2 No Battery Hole Drawing v1](https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/72717429/5102ae1d-9f32-4909-b16a-aabd064a68be)
-
 Figure 4: Iteration 2 Dimensioned CAD Drawing
 
 
