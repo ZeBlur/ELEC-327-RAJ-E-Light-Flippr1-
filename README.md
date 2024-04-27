@@ -83,7 +83,7 @@ Auxilliary Helper/Header Files:
 - _servo.c_
 - _servo.h_
 
-The _FLIPPER.c_ main file implements the _E-Light Flippr1™'s_ custom control logic with support helper functions defined in the auxilliary files. Fundamental logic revolves around two states—'UP' and 'DOWN'— and the numerous timers and flags used to determine when to switch between them. Logic also includes polling the IR and Motion sensors, supported by additional functionality to account for the possibility of noise or erroneous inputs. 
+The _FLIPPER.c_ main file implements the _E-Light Flippr1™'s_ custom control logic with support from helper functions defined in the auxilliary files. Fundamental logic revolves around two states—'UP' and 'DOWN'— and the numerous timers and flags used to determine when to switch between them. Logic also includes polling the IR and Motion sensors, supported by additional functionality to account for the possibility of noise or erroneous inputs. 
 
 The _initialize.c_ file include functions to initialize the MSP430's I/O ports and internal clocks. The _servo.c_ file includes a function to control the angle at which the servo arm moves to hit the light switch. 
 
