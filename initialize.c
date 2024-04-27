@@ -1,7 +1,7 @@
 /*
  * initialize.c
  *
- *  Created on: April 24, 2024
+ *  Created on: March 25, 2024
  *      Author: Adam Swartz (aas23)
  *
  *      Source and Header files for initializing all necessary modules
@@ -23,10 +23,10 @@ void init_wdt(void){
     IE1 |= WDTIE;            // Enable WDT interrupt
 }
 
-// Initialize the various buttons used in the code
+// Initialize the various buttons used in the code (only button on pin 2.4 in this case).
 void init_buttons() {
     P2DIR &= ~(BIT4); // set to input
-    P2DIR |= BIT5;
+    P2DIR |= BIT5; // Set LED on 2.5 to output.
     P2REN = BIT4; // enable pullup/down resistors
     P2OUT = BIT4; // set resistors to pull up
 
@@ -37,19 +37,19 @@ void init_buttons() {
     P2IE = BIT4; // enable interrupts for these pins
 }
 
-// Initialize the ADC to be used for reading random voltage values from Pin 1.3
+// Initialize the ADC to be used for reading voltage values on pins
+// ir_read() and motion_read() do this.
 void init_adc() {
     ADC10CTL0 = SREF_0|ADC10SHT_2|ADC10ON;
     ADC10CTL1 = INCH_3|SHS_0|ADC10DIV_0|ADC10SSEL_0|CONSEQ_0;
-    //ADC10AE0 |= BIT0;  //P1.3 also above, INCH_3
     ADC10CTL0 |= ENC;
 }
 
 /* ---------------------------------------------------------------- */
 
 // Function to be called in the main.c function to initialize all appropriate values
-// by calling init_wdt(), rgb_init_spi() for LED strip usage, init_buttons() for input,
-// and init_adc() for generating a random seed.
+// by calling init_wdt() and init_buttons() to drive the program forward.
+
 void init_main() {
 
     WDTCTL = WDTPW | WDTHOLD;   // stop watchdog timer
@@ -62,13 +62,11 @@ void init_main() {
     P2DIR |= BIT1;                        // Set PWM pin direction
     P2SEL |= BIT1;                        // Set PWM pin direction
 
+    // Enable timers used for generating PWM signal for servo actuation
     TA1CTL = TASSEL_1 + MC_1;                              // ACLK, upmode
     TA1CCR0 = 50;                                          // Set PWM frequency ~12 kHz / 20
-
-
 
     // Initialize all the modules
     init_wdt();
     init_buttons();
-    //init_adc();
 }

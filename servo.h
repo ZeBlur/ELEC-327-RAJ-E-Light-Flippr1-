@@ -1,7 +1,7 @@
 /*
  * servo.h
  *
- *  Created on: Apr 24, 2024
+ *  Created on: April 24, 2024
  *      Author: RAJ Industries
  */
 

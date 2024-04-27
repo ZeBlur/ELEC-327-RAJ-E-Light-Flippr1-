@@ -1,13 +1,14 @@
 /*
  * initialize.h
  *
- *  Created on: April 24, 2024
+ *  Created on: March 25, 2024
  *      Author: Adam Swartz
  */
 
 #ifndef INITIALIZE_H_
 #define INITIALIZE_H_
 
+// Link all functions used in initialize.c
 void init_wdt();
 void init_buttons();
 void init_adc();
