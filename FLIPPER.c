@@ -166,7 +166,7 @@ int switch_flag = 0;
 // off the lights.
 //
 // We have experimentally determined 0.711765 seconds per tick; 2 minutes is approx. 169 ticks
-const int TIMEOUT_THRESHOLD =639;
+const int TIMEOUT_THRESHOLD =667;
 
 // This is the threshold number of times the IR Sensor must be tripped to register activity.
 // The IR sensor is quite sensitive so this threshold serves as a method to "debounce" it.
