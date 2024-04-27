@@ -292,14 +292,14 @@ int main(void)
             // If lights are off:
             if (state == DOWN) {
                 // Move the servo arm to turn the lights on
-                MoveArm(100);
+                MoveArm(112);
                 // Turn off MSP430 Board Light used for debugging
                 P2OUT |= BIT5;
                 // Lights are on, register the system in the UP state
                 state = UP;
             } else {
                 // Move the servo arm to turn the lights off
-                MoveArm(65);
+                MoveArm(33);
                 // Turn on the MSP430 Board Light used for debugging.
                 P2OUT &=~ BIT5;
                 // Lights are off, register the system in the DOWN state
