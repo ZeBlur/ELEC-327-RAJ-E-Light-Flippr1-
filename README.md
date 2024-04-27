@@ -120,7 +120,7 @@ The _E-Light Flippr1™_ is easily installed or detached from a wide range of wa
 Contact our project development team @rajsilicongroup@gmail.com.
 
 ## Roadmap
-We are currently exploring several additional features to the RAJ-E-Light-Flippr1: <br />
+We are currently exploring several additional features to the _E-Light Flippr1™_: <br />
 
 - Wi-Fi integration
 - Ambient light sensing and adaptability
@@ -172,6 +172,8 @@ Preliminary prototyping has been completed, with all current intended features i
 Additional design improvements being explored are listed above in the roadmap section
 
 ## Visuals
+
+Here are photos of the _E-Light Flippr1™_.
 
 ![IMG_7882](https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/168153437/9c6d0d3f-9d84-46aa-b245-9cacdeae8438)
 Figure 5: Photo 1 of Device
