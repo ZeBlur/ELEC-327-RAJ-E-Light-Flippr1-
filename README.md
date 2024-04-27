@@ -107,7 +107,8 @@ Iteration 2 (final iteration) of our enclosure design in CAD is shown below:
 Figure 3: Iteration 2 in CAD
 
 A render of Iteration 2 of our CAD design is shown below:
-![E-Light_Switch_Flippr1_R2_No_Battery_Hole_2024-Apr-26_08-40-51PM-000_CustomizedView20125995546_png](https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/72717429/0aa75439-21b2-49ad-90de-ff1f665aab40)
+![E-Light_Switch_Flippr1_R2_No_Battery_Hole_2024-Apr-27_01-19-24AM-000_CustomizedView18698115111_png](https://github.com/ZeBlur/ELEC-327-RAJ-E-Light-Flippr1-/assets/72717429/d06d340e-c8f0-4a35-9939-90d370f19b21)
+
 Figure 4: Render of Iteration 2
 
 A dimensioned drawing of Iteration 2 of our CAD design is shown below:
