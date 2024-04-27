@@ -165,7 +165,7 @@ int switch_flag = 0;
 // This is the threshold timer_counter must exceed before registering inactivity and turning
 // off the lights.
 //
-// We have experimentally determined 22.22 counter accumulations per second; 30 minutes is approx. 667 ticks
+// We have experimentally determined 22.22 counter accumulations per second; 30 seconds is approximately 667 counter accumulations
 const int TIMEOUT_THRESHOLD =667;
 
 // This is the threshold number of times the IR Sensor must be tripped to register activity.
